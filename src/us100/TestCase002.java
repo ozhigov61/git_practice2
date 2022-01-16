@@ -5,5 +5,7 @@ public class TestCase002 {
 
         //ssss
         ///step 1 is done
+        System.out.println( "Doing some work");
+
     }
 }
